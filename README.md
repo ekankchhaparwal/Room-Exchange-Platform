@@ -1,5 +1,5 @@
 
-# 🐾 Room Exchange Platform 🐾
+# Room Exchange Platform 
 
 ## Overview
 
