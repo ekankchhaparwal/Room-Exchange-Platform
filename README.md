@@ -34,7 +34,7 @@ The Room Exchange Platform is designed to streamline the process of room swappin
 #### Hibernate & Spring JPA 🗃️
 - Role: Manages database interactions and ORM (Object-Relational Mapping) for seamless data handling and persistence.
 
-#### Simple Mailer (Spring Boot Mail Service) 📧
+#### JavaMailSender📧
 - Role: Handles email notifications, providing users with updates on their room swap requests and status.
 ---
 
